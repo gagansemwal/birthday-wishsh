@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 03 Aug 2024 13:41:14 at https://birthday.mewtru.com/P1bKPZ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://birthday.mewtru.com/P1bKPZ -O1 "C:\Users\PC\Pictures\my web\ritie" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:41:33	Warning: 	Temporary Redirect for https://birthday.mewtru.com/robots.txt
+13:41:33	Warning: 	File has moved from https://birthday.mewtru.com/robots.txt to /
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 24 links scanned, 23 files written (1366435 bytes overall) [1011256 bytes received at 17741 bytes/sec], 549069 bytes transferred using HTTP compression in 11 files, ratio 31%, 4.8 requests per connection
+(No errors, 2 warnings, 0 messages)
